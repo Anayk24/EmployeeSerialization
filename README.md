@@ -19,7 +19,8 @@ Assignment Name:**Employee Serialization
 45, Anay Khandelwal, 50000
 18, Aryan Nagdev, 60000
 7, Pranav Vispute, 55000
-## Sample Output   
+## Sample Output 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d7d67a63-6d1d-44ee-8198-d7d4b4591795" />
 Employees serialized successfully!
 
 Employees deserialized successfully!
