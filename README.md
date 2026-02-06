@@ -20,10 +20,16 @@ Assignment Name:**Employee Serialization
 7, Pranav Vispute, 55000
 ## Sample Output   
 Employees serialized successfully!
+
 Employees deserialized successfully!
+
 Employees from deserialized file:
+
 Employee [ID=45, Name=Anay Khandelwal, Salary=50000.0]
+
 Employee [ID=18, Name=Aryan Nagdev, Salary=60000.0]
+
 Employee [ID=7, Name=Pranav Vispute, Salary=55000.0]
+
 ##  Conclusion
 This assignment successfully demonstrates **employee serialization and deserialization** in Java, bridging file handling with object persistence. It serves as a foundational exercise for backend development workflows.
