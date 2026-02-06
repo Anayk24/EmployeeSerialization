@@ -15,7 +15,7 @@ Assignment Name:**Employee Serialization
    - **Serialization & Deserialization** in Java
    - **Object-Oriented Programming** concepts
    ## Sample Input(`employees.txt`):
-   <img width="9592" height="4432" alt="Image" src="https://github.com/user-attachments/assets/0ad406de-5ad0-443d-bcdc-c86b5704497d" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ec7bd9ce-df23-4d2f-a6b0-ce9ee13870d7" />
 45, Anay Khandelwal, 50000
 18, Aryan Nagdev, 60000
 7, Pranav Vispute, 55000
